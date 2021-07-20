@@ -1,0 +1,16 @@
+.container{
+  margin:0 auto;
+  width:150px
+}
+.input{
+  border:1px solid skyblue;
+  outline:none;
+  border-radius:3px;
+}
+.color-picker{
+  border:none;
+  min-height:100px;
+  margin:5px 0px;
+  padding:5px;
+}
+
